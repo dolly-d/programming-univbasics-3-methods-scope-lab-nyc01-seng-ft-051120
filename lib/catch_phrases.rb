@@ -22,4 +22,3 @@ def all_phrases('Mario')
   puts status
   puts link
 end 
-end
